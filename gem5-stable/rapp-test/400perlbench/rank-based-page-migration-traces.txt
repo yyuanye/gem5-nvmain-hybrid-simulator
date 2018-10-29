@@ -1,0 +1,6 @@
+access time statistics of every channel every 1000 cycles
+channel_0  channel_1  channel_2  channel_3  
+1021   629   747   663   
+2098   1205   1435   1292   
+2647   1530   1781   1686   
+2716   1594   1829   1783   

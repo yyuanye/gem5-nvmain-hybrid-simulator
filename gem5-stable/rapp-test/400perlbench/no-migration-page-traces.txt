@@ -1,0 +1,6 @@
+access time statistics of every channel every 1000 cycles
+channel_0  channel_1  channel_2  channel_3  
+757   717   825   761   
+1502   1461   1575   1492   
+1893   1826   1985   1940   
+1946   1886   2035   2055   

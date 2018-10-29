@@ -7,4 +7,4 @@
 # Para:
 #########################################################################
 #!/bin/bash
-scons EXTRAS=../nvmain build/X86/gem5.opt -j10
+scons EXTRAS=../nvmain ../../build/X86/gem5.opt -j32

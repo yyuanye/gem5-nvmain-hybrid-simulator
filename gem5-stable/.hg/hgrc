@@ -5,12 +5,12 @@ default = http://repo.gem5.org/gem5-stable
 mq = 
 
 [ui]
-username = luckydong
+username = yyuanye
 
 # The following lines were automatically added by gem5/SConstruct
 # to provide the gem5 style-checking hooks
 [extensions]
-style = /home/dliu/simulator/gem5-stable/util/style.py
+style = /home/yyuanye/gem5-nvmain-old/gem5-nvmain-hybrid-simulator/gem5-stable/util/style.py
 
 [hooks]
 pretxncommit.style = python:style.check_style

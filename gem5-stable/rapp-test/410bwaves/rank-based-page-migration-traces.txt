@@ -1,0 +1,2 @@
+access time statistics of every channel every 1000 cycles
+channel_0  channel_1  channel_2  channel_3  
